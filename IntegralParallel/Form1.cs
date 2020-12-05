@@ -2,7 +2,8 @@
 using System;
 using System.Diagnostics;
 using System.Windows.Forms;
-
+//Привет Максим, я видел ты заходил.
+//Короче, здесь был Коля.
 namespace IntegralParallel
 {
     public partial class Form1 : Form
